@@ -9,3 +9,8 @@ class Cat
     puts "meow!"
   end 
 end 
+
+maru = Cat.new 
+maru.name = "Maru"
+
+maru.name
